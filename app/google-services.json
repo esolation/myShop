@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "312769149149",
+    "firebase_url": "https://alibabaclone-ea49f.firebaseio.com",
+    "project_id": "alibabaclone-ea49f",
+    "storage_bucket": "alibabaclone-ea49f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312769149149:android:d64d5db64cf866213e4334",
+        "android_client_info": {
+          "package_name": "com.example.myshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "312769149149-bhr8btbd6aah5lf08nrttd9lb0d4v2ec.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myshop",
+            "certificate_hash": "8a17404e14b282cbfb2a1695abd64319b5871157"
+          }
+        },
+        {
+          "client_id": "312769149149-gr397pq4ce00836n4662ua2t3if5sbe1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAShUTn5izk16T6SV_5mQ_gFrH3_nVcgW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "312769149149-gr397pq4ce00836n4662ua2t3if5sbe1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
